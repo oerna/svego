@@ -1,0 +1,38 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "SveGo"
+copyright = "Bjoern"
+
+theme = "hyde"
+
+[params]
+description = ""
+themeColor = "theme-base-0b"
+
+
+[[menu.main]]
+        name = "Über SveGo"
+        pre = ""
+        weight = -110
+        identifier = "ueber-svego"
+        url = "/ueber-svego"
+[[menu.main]]
+        name = "Winterdienst"
+        pre = "Schneeräumen, streuen und Winterdienst."
+        weight = -100
+        identifier = "winterdienst"
+        url = "/winterdienst"
+        
+[[menu.main]]
+        name = "Erdbewegungen"
+        pre = "Baugrubenaushub, Abbrucharbeiten und Planierungsarbeiten."
+        weight = -90
+        identifier = "erdbewegungen"
+        url = "/erdbewegungen"
+        
+[[menu.main]]
+        name = "Objektpflege"
+        pre = "Reinigung von Bürgersteigen, Höfen und Parkplätzen."
+        weight = -70
+        identifier = "objektpflege"
+        url = "/objektpflege"
