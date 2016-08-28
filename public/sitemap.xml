@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-08-27T10:33:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/ueber-svego/</loc>
+    <lastmod>2016-08-27T10:33:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/winterdienst/</loc>
+    <lastmod>2016-08-27T10:09:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/erdbewegungen/</loc>
+    <lastmod>2016-08-27T10:09:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/objektpflege/</loc>
+    <lastmod>2016-08-27T10:09:24+02:00</lastmod>
+  </url>
+  
+</urlset>
