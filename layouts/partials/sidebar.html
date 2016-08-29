@@ -4,7 +4,7 @@
       
         
         <a href="{{ .Site.BaseURL }}"><img src="/img/SveGo_Logo.jpg" title="SveGo"/></a>
-        <br/>
+        
       <div class="hrB"></div>
       <p class="lead">
       {{ with .Site.Params.description }} {{.}} {{end}}
@@ -20,11 +20,11 @@
       <a>+49 (0)681 940 928-0</a>
 <div class="hrB"></div>
             <a>info@svego.eu</a>
-      <br/><br/><br/>
+      <br/><br/>
 
-      <div class="fuss">
+      <span class="fuss">
           <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. SveGo - 
               Alle Rechte vorbehalten {{end}}</p><a href="/impressum">IMPRESSUM</a>
-      </div>
+      </span>
   </div>
 </div>

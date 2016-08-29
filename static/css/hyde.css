@@ -67,6 +67,8 @@ html {
     bottom: 0;
     width: 22.5rem;
     text-align: left;
+          z-index: 2001;
+
   }
 }
 
@@ -128,7 +130,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 100%;
     margin-left: 24rem;
     margin-right: 2rem;
   }
@@ -264,7 +266,7 @@ a.sidebar-nav-item:focus {
 }
 .btn {
   -webkit-border-radius: 7;
-  -moz-border-radius: 7;
+    -moz-border-radius: 7;
   border-radius: 7px;
   color: #FFF !important;
   font-size: 16px;
@@ -284,6 +286,16 @@ a.sidebar-nav-item:focus {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     margin: 10px 0 7px 0;
+}
+
+.vid{
+    margin-bottom: 1rem;
+    width: 100%;
+}
+iframe{
+    border-width: 0px;
+    width: 100%;
+    height: 22rem;
 }
 
 
