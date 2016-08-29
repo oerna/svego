@@ -109,7 +109,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    top: 1rem;
     left:   1rem;
   }
 }
@@ -250,6 +250,9 @@ a.sidebar-nav-item:focus {
 }
 
 
+
+
+
 /* ---------   oErNa     ----------*/
 
 .copyR {
@@ -280,9 +283,13 @@ a.sidebar-nav-item:focus {
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    margin: 10px 0 10px 0;
+    margin: 10px 0 7px 0;
 }
 
+
+.fuss {
+    font-size: 0.7rem;
+}
 
 .homeText{
     position: absolute;
