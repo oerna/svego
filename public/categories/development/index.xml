@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on SveGo</title>
-    <link>http://replace-this-with-your-hugo-site.com/categories/development/</link>
+    <link>http://svego.netlify.com/categories/development/</link>
     <description>Recent content in Development on SveGo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <copyright>Bjoern</copyright>
     <lastBuildDate>Sat, 27 Aug 2016 10:33:07 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://svego.netlify.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ueber svego</title>
-      <link>http://replace-this-with-your-hugo-site.com/ueber-svego/</link>
+      <link>http://svego.netlify.com/ueber-svego/</link>
       <pubDate>Sat, 27 Aug 2016 10:33:07 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/ueber-svego/</guid>
+      <guid>http://svego.netlify.com/ueber-svego/</guid>
       <description>&lt;p&gt;Gegründet im Jahre 2011, zählt SveGo zu den etablierten Dienstleistern in den Bereichen Facility Management und Winterdienst im Raum Saarland.&lt;/p&gt;
 
 &lt;p&gt;2012 erhielt SveGo die EU Transport Lizenz und zeichnet sich seit 2014 als Meisterbetrieb im Bereich Baumaschinen und Erdbewegungen aus.&lt;/p&gt;

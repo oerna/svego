@@ -1,14 +1,32 @@
 {{ partial "head.html" . }}
 	<body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
 		{{ partial "sidebar.html" . }}
-
-		<div class="content container">
-            
-			<div class="post">
-			 	<h1>{{ .Title }}</h1>
-			      {{ .Content }}
-			</div>
-		</div>
+        
+        <div class="content container">
+    
+    <div class="slidecont">
+        <div  class="homeText">
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+           </div>
+       
+     <div class="css-slideshow "> 
+  <figure> 
+    <img src="{{ .Params.image }}" width="495" height="370" /> 
+  </figure> 
+  <figure> 
+    <img src="{{ .Params.image2 }}" width="495" height="370" /> 
+  </figure> 
+  <figure> 
+    <img src="{{ .Params.image3 }}" width="495" height="370" /> 
+  </figure> 
+</div>
+    
+    
+    
+    </div>
+                                  
+</div>
 
   </body>
 </html>

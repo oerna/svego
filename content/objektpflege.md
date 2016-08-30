@@ -1,7 +1,10 @@
 +++
 date = "2016-08-27T10:09:24+02:00"
-title = "objektpflege"
+title = "Professionelle Objektpflege"
 description = "Reinigung von Bürgersteigen, Höfen und Parkplätzen."
+image = "/img/kehrmaschine.jpg"
+image2 = "/img/kehrmaschine.jpg"
+image3 = "/img/kehrmaschine.jpg"
 
 +++
 

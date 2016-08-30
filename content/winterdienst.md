@@ -2,12 +2,15 @@
 date = "2016-08-27T10:09:49+02:00"
 title = "Winterdienst"
 description = "Schneeräumen, streuen und Winterdienst."
+image = "/img/snow.jpg"
+image2 = "/img/snow.jpg"
+image3 = "/img/snow.jpg"
 
 +++
 
 ## Winterdienst in Saarbrücken und Umgebung - Svego ist ihr zuverlässiger Partner   
 
-
+   
 <iframe src="//player.vimeo.com/video/18530179?autoplay=1&portrait=0&title=0" class="vid" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
    

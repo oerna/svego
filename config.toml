@@ -1,7 +1,8 @@
 baseurl = "http://svego.netlify.com/"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "SveGo"
 copyright = "Bjoern"
+enableRobotsTXT = true
 
 theme = "hyde"
 

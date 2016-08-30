@@ -55,10 +55,12 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2rem 0.9rem 2rem 1rem;
   color: #555;
   background-color: #fff;
+  z-index: 2001;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -67,8 +69,6 @@ html {
     bottom: 0;
     width: 22.5rem;
     text-align: left;
-          z-index: 2001;
-
   }
 }
 
@@ -324,10 +324,11 @@ iframe{
 
 .slidecont{width: 100%;
     height: 100%;
-position: fixed;
+    position: fixed;
     left: 0px;
     top: 0px;
     padding-left: 360px;
+    overflow: scroll;
 }
 .slidecont li{
     list-style: none
@@ -346,7 +347,7 @@ position: fixed;
 
 
 .css-slideshow img{
-    width: 140%;
+    width: 160%;
    height: 100%;
     border-radius: 0px;
 }
