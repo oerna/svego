@@ -336,6 +336,10 @@ figure:nth-child(3) {
 }
 
 
+.lead{
+    color: #EEE !important;
+    font-size: 0px !important;
+}
 
 
 
