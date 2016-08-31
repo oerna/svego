@@ -54,16 +54,16 @@ html {
  */
 
 .sidebar {
-  text-align: center;
+  text-align: left;
   padding: 2rem 0.9rem 2rem 1rem;
   color: #555;
   background-color: #fff;
   z-index: 2001;
+    position: relative !important;
 }
 
 @media (min-width: 48em) {
   .sidebar {
-    position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
@@ -144,118 +144,51 @@ a.sidebar-nav-item:focus {
 }
 
 
-/*
- * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` on the right.
- */
 
-@media (min-width: 48em) {
-  .layout-reverse .sidebar {
-    left: auto;
-    right: 0;
-  }
-  .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
-  }
-}
-
-@media (min-width: 64em) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
-  }
-}
-
-
-
-/*
- * Themes
- *
- * As of v1.1, Hyde includes optional themes to color the sidebar and links
- * within blog posts. To use, add the class of your choosing to the `body`.
- */
-
-/* Base16 (http://chriskempson.github.io/base16/#default) */
-
-/* Red */
-.theme-base-08 .sidebar {
-  background-color: #ac4142;
-}
-.theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
-}
-
-/* Orange */
-.theme-base-09 .sidebar {
-  background-color: #d28445;
-}
-.theme-base-09 .content a,
-.theme-base-09 .related-posts li a:hover {
-  color: #d28445;
-}
-
-/* Yellow */
-.theme-base-0a .sidebar {
-  background-color: #f4bf75;
-}
-.theme-base-0a .content a,
-.theme-base-0a .related-posts li a:hover {
-  color: #f4bf75;
-}
 
 /* DAS IST DAS THEME WELCHES AKTIVIERT IST */
 .theme-base-0b .sidebar {
   background-color: #fff;
 }
-.theme-base-0b .content a,
-.theme-base-0b .related-posts li a:hover {
-  color: #fff;
-}
-
-/* Cyan */
-.theme-base-0c .sidebar {
-  background-color: #75b5aa;
-}
-.theme-base-0c .content a,
-.theme-base-0c .related-posts li a:hover {
-  color: #75b5aa;
-}
-
-/* Blue */
-.theme-base-0d .sidebar {
-  background-color: #6a9fb5;
-}
-.theme-base-0d .content a,
-.theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
-}
-
-/* Magenta */
-.theme-base-0e .sidebar {
-  background-color: #aa759f;
-}
-.theme-base-0e .content a,
-.theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
-}
-
-/* Brown */
-.theme-base-0f .sidebar {
-  background-color: #8f5536;
-}
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #8f5536;
-}
-
-
-
 
 
 /* ---------   oErNa     ----------*/
+
+
+@media (max-width: 48em) {
+  .container {
+   position: relative;
+  }
+}
+@media (max-width: 48em) {
+  .slidecont, .homeText {
+   position: relative !important;
+  }
+}
+@media (max-width: 48em) {
+  .slidecont {
+   overflow: inherit!important;
+  }
+}
+@media (max-width: 48em) {
+  .homeText {
+   border-left: 0px !important;
+  }
+}
+@media (max-width: 48em) {
+  .container {
+   padding: 0px 0px 0px 0px !important;
+  }
+}
+@media (max-width: 48em) {
+  .content {
+   padding: 0px 0px 0px 0px !important;
+  }
+}
+
+
+
+
 
 .copyR {
   font-size: 10px !important;
@@ -300,22 +233,27 @@ iframe{
 
 
 .fuss {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
+}
+
+.fuss a{
+    color: #222;
 }
 
 .homeText{
-    position: absolute;
+    position: relative;
+    border-left: 1px solid #eee;
     background-color: #fff;
     padding: 25px 35px 25px 25px;
     width: auto;
-    margin-top: 10%;
+    margin-top: 0%;
     font-size: 1,5rem;
     z-index: 2000;
     text-align: justify;
 }
 @media (max-width: 48em) {
   .homeText{
-      position: relative;
+     
     }
 }
 

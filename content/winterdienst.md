@@ -5,6 +5,8 @@ description = "Schneeräumen, streuen und Winterdienst."
 image = "/img/snow.jpg"
 image2 = "/img/snow.jpg"
 image3 = "/img/snow.jpg"
+alt = "Winterdienst, Schneeräumen und streuen"
+imgtitle = "Winterdienst"
 
 +++
 

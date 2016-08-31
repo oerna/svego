@@ -3,8 +3,8 @@
     <div class="sidebar-about">
       
         
-        <a href="{{ .Site.BaseURL }}"><img src="/img/SveGo_Logo.jpg" title="SveGo"/></a>
-        
+        <a href="{{ .Site.BaseURL }}"><img src="/img/SveGo_Logo.jpg" title="SveGo" alt="Logo - SveGo" title="SveGo"/></a>
+        <br/>
       <div class="hrB"></div>
       <p class="lead">
       {{ with .Site.Params.description }} {{.}} {{end}}
@@ -20,11 +20,14 @@
       <a>+49 (0)681 940 928-0</a>
 <div class="hrB"></div>
             <a>info@svego.eu</a>
-      <br/><br/>
+      <br/>
+      <a href="https://www.facebook.com/svego.aussenanlagen" ><i class="fa fa-facebook" aria-hidden="true"></i></a>  <a href="mailto:info@svego.eu"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+
+
+      <br/><br/><br/>
 
       <span class="fuss">
-          <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. SveGo - 
-              Alle Rechte vorbehalten {{end}}</p><a href="/impressum">IMPRESSUM</a>
+          <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. SVEGO I {{end}}<a href="/impressum">IMPRESSUM</a></p>
       </span>
   </div>
 </div>

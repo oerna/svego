@@ -5,6 +5,7 @@ description = "Reinigung von Bürgersteigen, Höfen und Parkplätzen."
 image = "/img/kehrmaschine.jpg"
 image2 = "/img/kehrmaschine.jpg"
 image3 = "/img/kehrmaschine.jpg"
+alt = "Reinigung von Bürgersteigen, Höfen und Parkplätzen."
 
 +++
 
