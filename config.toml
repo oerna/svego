@@ -7,7 +7,7 @@ enableRobotsTXT = true
 theme = "hyde"
 
 [params]
-description = ""
+description = "Svego - Dienstleister im Bereich Objektpflege, Facility Management, Winterdienst und Erdbewegungen. Ihr zuverlässiger Partner in Saarbrücken und im Saarland"
 themeColor = "theme-base-0b"
 
 
