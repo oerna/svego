@@ -279,15 +279,19 @@ iframe{
 }
 
 
-
-
-/* noch SLIDESHOW  */
-
-
 .css-slideshow img{
     width: 160%;
    height: 100%;
     border-radius: 0px;
+}
+
+/* noch SLIDESHOW  */
+
+@media (max-width: 48em) {
+.css-slideshow img{
+    width: 100% !important;
+   
+}
 }
 .css-slideshow{
    position: relative;
