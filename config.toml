@@ -3,7 +3,7 @@ languageCode = "de-de"
 title = "SveGo"
 copyright = "Bjoern"
 enableRobotsTXT = true
-
+disableSitemap = false
 theme = "hyde"
 
 [params]
