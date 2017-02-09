@@ -345,5 +345,11 @@ figure:nth-child(3) {
     font-size: 0px !important;
 }
 
-
+.ertable td, tr{
+    background: #fff !important;
+    border: 0px !important;
+}
+.ertable {
+    border: 0px !important;
+}
 
