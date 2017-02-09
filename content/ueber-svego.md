@@ -10,7 +10,7 @@ image3 = "/img/lader.jpg"
 
 +++
 
-Gegründet im Jahre 2011, zählt SveGo zu den etablierten Dienstleistern in den Bereichen Facility Management und Winterdienst im Raum Saarland.
+Gegründet im Jahre 2011, zählt SveGo zu den etablierten Dienstleistern in den Bereichen Erdbewegungen und Winterdienst im Raum Saarland. Ausserdem konnte wir in den letzten Jahren viel Erfahrung im Bereich Versorgungsleitungen aufbauen. Dazu gehören Fernwärme-, Gas-, Wasser- und Stromleitungen.
 
 2012 erhielt SveGo die EU Transport Lizenz und zeichnet sich seit 2014 als Meisterbetrieb im Bereich Baumaschinen und Erdbewegungen aus.
 

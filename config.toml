@@ -30,10 +30,3 @@ themeColor = "theme-base-0b"
         weight = -90
         identifier = "erdbewegungen"
         url = "/erdbewegungen"
-        
-[[menu.main]]
-        name = "Objektpflege"
-        pre = "Reinigung von Bürgersteigen, Höfen und Parkplätzen."
-        weight = -70
-        identifier = "objektpflege"
-        url = "/objektpflege"
