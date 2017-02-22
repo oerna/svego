@@ -16,13 +16,4 @@ Gegründet im Jahre 2011, zählt SveGo zu den etablierten Dienstleistern in den 
 
 Das noch junge Unternehmen hat seit seiner Gründung stetiges Wachstum erfahren und besticht durch sein junges dynamisches Team und seinen modernen Fuhrpark.
 
-*  *Wege- und Strassenbau*  
-    Hier sind unsere Mitarbeiter nicht nur ausgebildete Baumaschinenführer mit jahrelanger Erfahrung, sondern auch ausgebildete Strassenbauer. Somit bieten wir unseren Kunden ein Maximum an Effizienz.
-    
-*  *Graderarbeiten und Spezialwegebau*  
-    Erfahrung auch im Umgang auch mit lasergesteuerten Maschinen.
-    
-*  *Landschaftsgestaltung*  
-    Böschungsbau sowie Flusskanalisierung. Auch hier haben wir viele Projekte zur vollsten Zufriedenheit unserer Kunden ausgeführt.
-
 Zu den zufriedenen Kunden zählen sowohl Verbrauchermärkte, als auch Privatkunden, Gewerbebetriebe und Industriegelände. Deshalb freuen wir uns auch bald Sie, zu unseren Kunden zählen zu dürfen.
