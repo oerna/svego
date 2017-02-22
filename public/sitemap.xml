@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://svego.netlify.com/</loc>
+    <loc>https://www.svego.eu/</loc>
     <lastmod>2016-08-27T10:33:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://svego.netlify.com/ueber-svego/</loc>
+    <loc>https://www.svego.eu/ueber-svego/</loc>
     <lastmod>2016-08-27T10:33:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://svego.netlify.com/winterdienst/</loc>
+    <loc>https://www.svego.eu/winterdienst/</loc>
     <lastmod>2016-08-27T10:09:49+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://svego.netlify.com/erdbewegungen/</loc>
+    <loc>https://www.svego.eu/erdbewegungen/</loc>
     <lastmod>2016-08-27T10:09:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://svego.netlify.com/objektpflege/</loc>
-    <lastmod>2016-08-27T10:09:24+02:00</lastmod>
+    <loc>https://www.svego.eu/wegebau/</loc>
+    <lastmod>2017-02-27T10:09:24+02:00</lastmod>
   </url>
   
 </urlset>

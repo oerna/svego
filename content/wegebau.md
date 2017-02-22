@@ -3,7 +3,7 @@ date = "2016-08-27T10:09:24+02:00"
 title = "Wege- und Strassenbau"
 description = "Baumaschinenführer und Strassenbauer mit jahrelanger Erfahrung."
 image = "/img/erdbeweg/IMG_1923.jpg"
-image2 = "/img/erdbeweg/IMG_1923.jpg"
+image2 = "/img/erdbeweg/IMG_1921.jpg"
 image3 = "/img/erdbeweg/IMG_1923.jpg"
 alt = "Baumaschinenführer und Strassenbauer mit jahrelanger Erfahrung."
 
