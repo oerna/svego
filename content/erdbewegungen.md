@@ -11,6 +11,7 @@ Immer dann, wenn Erde bewegt, Gruben ausgehoben, Gebäude abgebrochen oder Mater
 
 
 
+<!-- 
 <table class="ertable">
     <tr>
         <td class="nivo">
@@ -34,4 +35,4 @@ Immer dann, wenn Erde bewegt, Gruben ausgehoben, Gebäude abgebrochen oder Mater
             </a>
         </td>
     </tr>
-</table>
+</table> -->
