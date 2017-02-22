@@ -10,7 +10,6 @@ alt = "Baumaschinenführer und Strassenbauer mit jahrelanger Erfahrung."
 +++
 
 
-Wege- und Strassenbau
 Hier sind unsere Mitarbeiter nicht nur ausgebildete Baumaschinenführer mit jahrelanger Erfahrung, sondern auch ausgebildete Strassenbauer. Somit bieten wir unseren Kunden ein Maximum an Effizienz.
     
 *  *Graderarbeiten und Spezialwegebau*  
