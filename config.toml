@@ -30,3 +30,10 @@ themeColor = "theme-base-0b"
         weight = -90
         identifier = "erdbewegungen"
         url = "/erdbewegungen"
+        
+[[menu.main]]
+        name = "Wege- und Strassenbau"
+        pre = "Wegebau, Strassenbau und Landschaftsgestaltung."
+        weight = -80
+        identifier = "wegebau"
+        url = "/wegebau"

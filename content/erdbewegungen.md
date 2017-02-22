@@ -4,7 +4,7 @@ title = "Erdbewegungen"
 description = "Baugrubenaushub, Abbrucharbeiten und Planierungsarbeiten."
 image = "/img/erdbeweg/IMG_1920.jpg"
 image2 = "/img/erdbeweg/IMG_1921.jpg"
-image3 = "/img/erdbeweg/IMG_1923.jpg"
+image3 = "/img/lader.jpg"
 alt = "Baugrubenaushub, Abbrucharbeiten und Planierungsarbeiten."
 +++
 Immer dann, wenn Erde bewegt, Gruben ausgehoben, Gebäude abgebrochen oder Material entsorgt werden muss, stehen wir mit unserer langjährigen Erfahrung und modernen Maschinen für Sie zur Verfügung.  
