@@ -5,8 +5,8 @@ Tags = ["Development", "golang"]
 date = "2016-08-27T10:33:07+02:00"
 title = "Über SveGo"
 image = "/img/winter1.jpg"
-image2 = "/img/erdbeweg/IMG_1924.jpg"
-image3 = "/img/lader.jpg"
+image2 = "/img/walze.jpg"
+image3 = "/img/krater.jpg"
 
 +++
 
